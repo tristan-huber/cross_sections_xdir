@@ -97,17 +97,7 @@
           "atomType": "Rectangle",
           "x": 0.21940104166666666,
           "y": 0.7457142857142858,
-          "uniqueID": "id-37142",
-          "ioValues": [
-            {
-              "name": "x length",
-              "ioValue": 20.77848179346001
-            },
-            {
-              "name": "y length",
-              "ioValue": 56.553146005825
-            }
-          ]
+          "uniqueID": "id-37142"
         },
         {
           "atomType": "Extrude",
@@ -1109,18 +1099,6 @@
       "uniqueID": "id-76099",
       "name": "slicePositions",
       "type": "array"
-    },
-    {
-      "atomType": "Import",
-      "x": 0.1796875,
-      "y": 0.2571428571428572,
-      "uniqueID": "id-76102",
-      "fileName": "kayakhull.step",
-      "name": "Import",
-      "type": "STEP",
-      "repoOwner": "tristan-huber",
-      "repoName": "crosssections_xdir",
-      "SVGwidth": 10
     }
   ],
   "allConnectors": [
@@ -1130,6 +1108,11 @@
       "ap2ID": "id-130"
     },
     {
+      "ap2Name": "kayakbody",
+      "ap1ID": "id-76091",
+      "ap2ID": "id-37127"
+    },
+    {
       "ap2Name": "thickness",
       "ap1ID": "id-76096",
       "ap2ID": "id-37127"
@@ -1137,11 +1120,6 @@
     {
       "ap2Name": "positions",
       "ap1ID": "id-76099",
-      "ap2ID": "id-37127"
-    },
-    {
-      "ap2Name": "kayakbody",
-      "ap1ID": "id-76102",
       "ap2ID": "id-37127"
     }
   ],
