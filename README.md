@@ -15,11 +15,7 @@
 
  ### bulkheads
 
-Readme text here 
-
-![readme](/readmeid-76141.svg?v=8lffhv)
-
-
+Readme text here
 
 
 
