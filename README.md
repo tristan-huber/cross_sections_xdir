@@ -2,7 +2,7 @@
 
 # crosssections_xdir
 
-![](/project.svg)
+![](/project.png)
 
 ## Inputs
 
