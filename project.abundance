@@ -999,18 +999,6 @@
       "uniqueID": "id-76099",
       "name": "slicePositions",
       "type": "array"
-    },
-    {
-      "atomType": "Import",
-      "x": 0.14192708333333331,
-      "y": 0.6085714285714285,
-      "uniqueID": "id-76820",
-      "fileName": "kayakhull.step",
-      "name": "Import",
-      "type": "STEP",
-      "repoOwner": "tristan-huber",
-      "repoName": "cross_sections_xdir",
-      "SVGwidth": 10
     }
   ],
   "allConnectors": [
